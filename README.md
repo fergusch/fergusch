@@ -1,16 +1,14 @@
-### Hi there 👋
+### hi 👋
 
-<!--
-**fergusch/fergusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Christian, an AI/ML software developer based out of Austin, Texas. I graduated from Indiana University Bloomington in 2020 with a B.S. in Computer Science. I also founded and used to be president of the [Computer Science Club at Indiana University](https://github.com/csclubiu). I'm currently working on autonomous driving tech and geospatial data processing.
 
-Here are some ideas to get you started:
+My main interests are: 
+- 🤖&nbsp;&nbsp;A.I. & Machine Learning
+- 📈&nbsp;&nbsp;Data Science
+- 🐍&nbsp;&nbsp;Python software development
+- 🧩&nbsp;&nbsp;programming puzzles
+- 🏎️&nbsp;&nbsp;motorsports
+- 🎮&nbsp;&nbsp;video games
+- 🐈&nbsp;&nbsp;cats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=fergusch&color=lightgrey)
