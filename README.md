@@ -11,4 +11,5 @@ My main interests are:
 - 🎮&nbsp;&nbsp;video games
 - 🐈&nbsp;&nbsp;cats
 
-![](https://komarev.com/ghpvc/?username=fergusch&color=lightgrey)
+![](https://img.shields.io/badge/pronouns-he%2Fhim-blue)
+![](https://komarev.com/ghpvc/?username=fergusch&color=brightgreen)
