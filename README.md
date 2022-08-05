@@ -1,15 +1,17 @@
 ### hi 👋
 
-I'm Christian, an AI/ML software developer based out of Austin, Texas. I graduated from Indiana University Bloomington in 2020 with a B.S. in Computer Science. I also founded and used to be president of the [Computer Science Club at Indiana University](https://github.com/csclubiu). I'm currently working on autonomous driving tech and geospatial data processing.
-
-My main interests are: 
-- 🤖&nbsp;&nbsp;A.I. & Machine Learning
-- 📈&nbsp;&nbsp;Data Science
-- 🐍&nbsp;&nbsp;Python software development
-- 🧩&nbsp;&nbsp;programming puzzles
-- 🏎️&nbsp;&nbsp;motorsports
-- 🎮&nbsp;&nbsp;video games
-- 🐈&nbsp;&nbsp;cats
+I'm Christian, a software developer based out of Austin, Texas. I'm currently pursuing my M.S. in Computer Science from the University of Texas at Austin. I also work on autonomous driving tech and data analytics in the automotive industry.
 
 ![](https://img.shields.io/badge/pronouns-he%2Fhim-blue)
-![](https://komarev.com/ghpvc/?username=fergusch&color=brightgreen)
+
+**Education:**
+- **M.S. Computer Science**, The University of Texas at Austin (2022-Present)
+- **B.S. Computer Science**, Indiana Univeresity Bloomington (2016-2020)
+
+**Interests:**
+- 🤖&nbsp;&nbsp;A.I. & Machine Learning
+- 📈&nbsp;&nbsp;Data Science
+- 🐍&nbsp;&nbsp;Python programming
+- 🏎️&nbsp;&nbsp;motorsports
+- 🎮&nbsp;&nbsp;video games
+- 📸&nbsp;&nbsp;[photography](https://photos.fergusch.net)
