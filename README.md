@@ -6,7 +6,7 @@ I'm Christian, a software developer based out of Austin, Texas. I'm currently pu
 
 **Education:**
 - **M.S. Computer Science**, The University of Texas at Austin (2022-Present)
-- **B.S. Computer Science**, Indiana Univeresity Bloomington (2016-2020)
+- **B.S. Computer Science**, Indiana University Bloomington (2016-2020)
 
 **Interests:**
 - 🤖&nbsp;&nbsp;A.I. & Machine Learning
