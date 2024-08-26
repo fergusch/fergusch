@@ -1,17 +1,5 @@
-### hi 👋
+### hello 👋
 
-I'm Christian, a software developer based out of Austin, Texas. I'm currently pursuing my M.S. in Computer Science from the University of Texas at Austin. I also work on autonomous driving tech and data analytics in the automotive industry.
+software engineer in the automotive industry. pursuing a masters in computer science at UT Austin part-time. former prez [@csclubiu](https://github.com/csclubiu).
 
-![](https://img.shields.io/badge/pronouns-he%2Fhim-blue)
-
-**Education:**
-- **M.S. Computer Science**, The University of Texas at Austin (2022-Present)
-- **B.S. Computer Science**, Indiana University Bloomington (2016-2020)
-
-**Interests:**
-- 🤖&nbsp;&nbsp;A.I. & Machine Learning
-- 📈&nbsp;&nbsp;Data Science
-- 🐍&nbsp;&nbsp;Python programming
-- 🏎️&nbsp;&nbsp;motorsports
-- 🎮&nbsp;&nbsp;video games
-- 📸&nbsp;&nbsp;[photography](https://photos.fergusch.net)
+feel free to contribute to any of my projects below! :)
